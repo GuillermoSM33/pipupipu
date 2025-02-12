@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\views\\shared\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\views\\shared\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\views\\usuario\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\views\\usuario\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\models\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\models\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|c:\\users\\x\\source\\repos\\garciaguillermo\\garciaguillermo\\models\\domain\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE2437-7FCF-41C5-98BA-85A42BFFF23D}|GarciaGuillermo\\GarciaGuillermo.csproj|solutionrelative:garciaguillermo\\models\\domain\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Views\\Usuario\\Editar.cshtml",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Views\\Usuario\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Views\\Usuario\\Editar.cshtml",
+              "RelativeToolTip": "GarciaGuillermo\\Views\\Usuario\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T02:13:17.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Views\\Usuario\\Crear.cshtml",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Views\\Usuario\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Views\\Usuario\\Crear.cshtml",
+              "RelativeToolTip": "GarciaGuillermo\\Views\\Usuario\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T01:58:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Views\\Shared\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Views\\Shared\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Views\\Shared\\Dashboard.cshtml",
+              "RelativeToolTip": "GarciaGuillermo\\Views\\Shared\\Dashboard.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T00:20:15.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "GarciaGuillermo\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD0AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T01:30:14.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "GarciaGuillermo\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:29:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Services\\IServices\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Services\\IServices\\IUsuarioServices.cs",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Services\\IServices\\IUsuarioServices.cs",
+              "RelativeToolTip": "GarciaGuillermo\\Services\\IServices\\IUsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:15:21.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Services\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Services\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Services\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "GarciaGuillermo\\Services\\Services\\UsuarioServices.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:15:06.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Program.cs",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Program.cs",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Program.cs",
+              "RelativeToolTip": "GarciaGuillermo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:39:53.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\appsettings.json",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\appsettings.json",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\appsettings.json",
+              "RelativeToolTip": "GarciaGuillermo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T01:33:25.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GarciaGuillermo\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:30:22.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Models\\Domain\\Rol.cs",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Models\\Domain\\Rol.cs",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Models\\Domain\\Rol.cs",
+              "RelativeToolTip": "GarciaGuillermo\\Models\\Domain\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:17:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Models\\Domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "GarciaGuillermo\\Models\\Domain\\Usuario.cs",
+              "ToolTip": "C:\\Users\\x\\source\\repos\\GarciaGuillermo\\GarciaGuillermo\\Models\\Domain\\Usuario.cs",
+              "RelativeToolTip": "GarciaGuillermo\\Models\\Domain\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:16:07.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

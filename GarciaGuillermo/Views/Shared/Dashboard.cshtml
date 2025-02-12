@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Garcia Canul</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+    <style>
+        /* Estilos para el Sidebar */
+        .sidebar {
+            height: 100vh;
+            width: 250px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            background-color: #353d46;
+            padding-top: 20px;
+            transition: all 0.3s;
+            z-index: 1000; /* Asegura que el sidebar esté por encima del contenido */
+        }
+
+            .sidebar a {
+                padding: 10px 15px;
+                text-decoration: none;
+                font-size: 18px;
+                color: white;
+                display: block;
+            }
+
+                .sidebar a:hover {
+                    background-color: #7848d4;
+                    color: white;
+                }
+
+        .content {
+            margin-left: 250px; /* Margen inicial igual al ancho del sidebar */
+            padding: 20px;
+            transition: margin-left 0.3s; /* Transición suave */
+        }
+
+        .sidebar .logo {
+            font-size: 24px;
+            text-align: center;
+            color: white;
+            margin-bottom: 20px;
+            cursor: pointer; /* Cambia el cursor a pointer para indicar que es clickeable */
+        }
+
+        .sidebar.collapsed {
+            width: 70px;
+        }
+
+            .sidebar.collapsed a span {
+                display: none;
+            }
+
+            .sidebar.collapsed + .content {
+                margin-left: 70px; /* Margen cuando el sidebar está colapsado */
+            }
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar">
+        <!-- El ícono del libro ahora es clickeable -->
+        <div class="logo" id="toggleSidebar">📚 <span>Biblioteca</span></div>
+        <a href="#"><i class="fa-solid fa-home"></i> <span>Inicio</span></a>
+        <a href="#"><i class="fa-solid fa-users"></i> <span>Usuarios</span></a>
+        <a href="#"><i class="fa-solid fa-book"></i> <span>Libros</span></a>
+        <a href="#"><i class="fa-solid fa-calendar"></i> <span>Reservas</span></a>
+        <a href="#"><i class="fa-solid fa-cog"></i> <span>Configuración</span></a>
+    </div>
+
+    <!-- Contenido principal -->
+    <div class="content">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+
+        <footer class="border-top footer text-muted text-center mt-4">
+            &copy; 2025 - Biblioteca Garcia Canul
+        </footer>
+    </div>
+
+    <script>
+        // Mueve el evento de clic al ícono del libro
+        document.getElementById("toggleSidebar").addEventListener("click", function () {
+            let sidebar = document.getElementById("sidebar");
+            sidebar.classList.toggle("collapsed");
+
+            // Ocultar el texto "Biblioteca"
+            let logoText = sidebar.querySelector(".logo span");
+            if (sidebar.classList.contains("collapsed")) {
+                logoText.style.display = "none";
+            } else {
+                logoText.style.display = "inline";
+            }
+        });
+    </script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html> 
